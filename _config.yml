@@ -1,14 +1,20 @@
-title: Jermaine Varnicker # your name (or website title) here
+title: <p align="center"> Jermaine Varnicker </p>
 
-logo: "images/Jermaine git Photo.jpg?raw=true" # your photo (or logo) here
+logo: "images/Jermaine git Photo.jpg?raw=true"
 
-description: > # your text below (remove <br> elements if you don't need line breaks)
+description:
   <p align="center">
-  <a href="https://www.linkedin.com/in/jermaine-varnicker-315a8794/">View My LinkedIn Profile</a> 
-  <a href="https://www.linkedin.com/in/jermaine-varnicker-315a8794/">View My LinkedIn Profile</a> 
-  <a href="https://github.com/JermaineV">GitHub</a>  Welcome to My Data Science Portfolio
+  <a href="pdf/Resume-Jvarnicker-varnicker (1).pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/jermaine-varnicker-315a8794/">LinkedIn</a> |
+  <a href="https://github.com/JermaineV">GitHub</a>  
+  </p>
+  
+  <p align="justify">
+  Welcome to My Data Science Portfolio
   <br><br>
-  This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio is updated on the regular basis 
+  This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. 
   <br><br>
+  </p>
+  
   
 theme: jekyll-theme-minimal
