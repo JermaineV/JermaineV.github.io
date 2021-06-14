@@ -1,17 +1,17 @@
 ## Portfolio
 ---
 
-### Academic Assignemts I have completed 
+### Academic Assignments I have completed 
 ---
 [Basic COVID-19 symptoms screening programming in python](/sample_page)
 <img src="images/covid.jfif?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Analyzing baseball data](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Cleansing and analysing population data](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
