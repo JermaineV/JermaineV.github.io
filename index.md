@@ -1,10 +1,9 @@
 ## Portfolio
-
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
+### Academic Assignemts I have completed 
+---
+[Basic COVID-19 symptoms screening programming in python](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
