@@ -4,7 +4,7 @@
 ### Academic Assignemts I have completed 
 ---
 [Basic COVID-19 symptoms screening programming in python](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/covid.jfif?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
