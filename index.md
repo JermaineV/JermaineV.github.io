@@ -11,7 +11,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Cleansing and analysing population data](http://example.com/)
+[Cleansing and analyzing population data](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
