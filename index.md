@@ -1,9 +1,13 @@
 ## Data Science Portfolio
 ---
 
+This repository contains independent and academic projects completed by me.
+
 ### Contents
 ---
-[Credit Fraud Detection: Prediction/Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/fc48ca331614d97e21ecbb0b9786914bff1364a7/credit_fraud_detection.ipynb.ipynb)
+[Credit Fraud Detection: Prediction/Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/fc48ca331614d97e21ecbb0b9786914bff1364a7/credit_fraud_detection.ipynb.ipynb): Model that predicts transactional credit fraud by utilizing machine learning techniques. 
+
+*Tools used*: pandas, numpy, nltk, sklearn, seaborn, matplotlib
 <img src="images/money-bag-thief-eps-vector_csp35493988.jpg?raw=true"/>
 
 ---
