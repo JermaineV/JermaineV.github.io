@@ -3,7 +3,7 @@
 
 ### Academic Assignments I have completed 
 ---
-[Basic COVID-19 symptoms screening programming in python](/sample_page)
+[Credit Fraud Detection: Prediction/Analysis](/sample_page)
 <img src="images/covid.jfif?raw=true"/>
 
 ---
