@@ -4,7 +4,7 @@
 ### Academic Assignments I have completed 
 ---
 [Credit Fraud Detection: Prediction/Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/fc48ca331614d97e21ecbb0b9786914bff1364a7/credit_fraud_detection.ipynb.ipynb)
-<img src="images/covid.jfif?raw=true"/>
+<img src="images/fraud image.jpg?raw=true"/>
 
 ---
 [Analyzing baseball data](/pdf/sample_presentation.pdf)
