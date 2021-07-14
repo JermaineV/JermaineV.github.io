@@ -1,17 +1,21 @@
-## Portfolio
+## Data Science Portfolio
 ---
 
-### Academic Assignments I have completed 
+### Contents
 ---
 [Credit Fraud Detection: Prediction/Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/fc48ca331614d97e21ecbb0b9786914bff1364a7/credit_fraud_detection.ipynb.ipynb)
 <img src="images/money-bag-thief-eps-vector_csp35493988.jpg?raw=true"/>
 
 ---
-[Analyzing baseball data](/pdf/sample_presentation.pdf)
+[Stock Market Analysis for Tech Stocks](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Cleansing and analyzing population data](http://example.com/)
+[Titanic Dataset - Exploratory Analysis](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Unsupervised Learning: Creating Customer Segments](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
