@@ -13,19 +13,19 @@ This repository contains independent and academic projects completed by me.
 ---
 [Stock Market Analysis for Tech Stocks](/pdf/sample_presentation.pdf): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
 
-*Tools used*:Pandas, Folium, Seaborn and Matplotlib
+*Tools used*: Pandas, Folium, Seaborn and Matplotlib
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Titanic Dataset - Exploratory Analysis](http://example.com/): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
 
-*Tools used*:Pandas, Folium, Seaborn and Matplotlib
+*Tools used*: Pandas, Folium, Seaborn and Matplotlib
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Unsupervised Learning: Creating Customer Segments](http://example.com/): Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
 
-*Tools used*:scikit-learn, Pandas, Seaborn, Matplotlib, Pygame
+*Tools used*: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
