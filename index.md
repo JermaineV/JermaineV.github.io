@@ -28,6 +28,10 @@ This repository contains independent and academic projects completed by me.
 *Tools used*: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+### Mini Project
+[ML with Logistic Regressions](http://example.com/): : Using Logistic Regression to predict whether an internet user clicked an ad or not.
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 ---
 
 ### More Projects and challenges will be added in future.
