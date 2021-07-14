@@ -20,7 +20,7 @@ This repository contains independent and academic projects completed by me.
 [Titanic Dataset - Exploratory Analysis](http://example.com/): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
 
 *Tools used*: Pandas, Folium, Seaborn and Matplotlib
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/titanic-css-float-none-cartoon-browserling-webcomic.png?raw=true"/>
 
 ---
 [Unsupervised Learning: Creating Customer Segments](http://example.com/): Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
