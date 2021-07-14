@@ -3,7 +3,7 @@
 
 ### Academic Assignments I have completed 
 ---
-[Credit Fraud Detection: Prediction/Analysis](/credit_fraud_detection.ipynb.ipynb)
+[Credit Fraud Detection: Prediction/Analysis](/JermaineV.github.io/credit_fraud_detection.ipynb.ipynb)
 <img src="images/covid.jfif?raw=true"/>
 
 ---
