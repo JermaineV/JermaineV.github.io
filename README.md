@@ -21,7 +21,7 @@
 - 💬 Talk to me about Python, SQL, database design and manipulation, Freelancing Opportunities, Open Source, etc. 
 
 
-<h2> My Projects<img align='center'src='https://media2.giphy.com/media/Cym9mYz9B5LpKJ8s2X/giphy.gifcid=ecf05e47rijxkkt9s1lor287jd936peuwn4t9hs52y68nwkf&rid=giphy.gif&ct=g' width = '32px'></h2>
+<h2> My Projects<img align='center'src='https://media.giphy.com/media/Cym9mYz9B5LpKJ8s2X/giphy.gif' width = '32px'></h2>
 
 ---
 [Credit Fraud Detection: Prediction/Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/8a2abfaf8b460c895b00a8b8c990d91c0091e881/projects/credit_fraud_detection.ipynb.ipynb): Model that predicts transactional credit fraud by utilizing machine learning techniques. 
