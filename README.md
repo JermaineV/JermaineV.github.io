@@ -20,6 +20,34 @@
 
 - 💬 Talk to me about Python, SQL, database design and manipulation, Freelancing Opportunities, Open Source, etc. 
 
+
+<h2> My Projects<img align='center'src='https://media2.giphy.com/media/Cym9mYz9B5LpKJ8s2X/giphy.gifcid=ecf05e47rijxkkt9s1lor287jd936peuwn4t9hs52y68nwkf&rid=giphy.gif&ct=g' width = '32px'></h2>
+
+---
+[Credit Fraud Detection: Prediction/Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/8a2abfaf8b460c895b00a8b8c990d91c0091e881/projects/credit_fraud_detection.ipynb.ipynb): Model that predicts transactional credit fraud by utilizing machine learning techniques. 
+
+*Tools used*: pandas, numpy, nltk, sklearn, seaborn, matplotlib
+
+---
+[Stock Market Analysis for Tech Stocks](loading): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
+
+*Tools used*: Pandas, Folium, Seaborn and Matplotlib
+
+---
+[Titanic Dataset - Exploratory Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/6a4073a5f40449dcfef267ba95b3a2a8cb1891a6/projects/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
+
+*Tools used*: Pandas, Folium, Seaborn and Matplotlib
+
+---
+[Unsupervised Learning: Creating Customer Segments](http://example.com/): Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
+
+*Tools used*: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame
+
+---
+### Mini Project
+[ML with Logistic Regressions](http://example.com/): : Using Logistic Regression to predict whether an internet user clicked an ad or not.
+
+---
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/JermaineV?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/JermaineV?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
