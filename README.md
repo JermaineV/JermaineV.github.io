@@ -14,9 +14,7 @@
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2></h2>
 
 
-- 🔭 I’m currently working on 
-
-- 🌱 I’m currently learning Data Science,AWS,Data Engineering 
+- 🌱 I’m currently learning, AI, Neural Networks and blockchain
 
 - 👯 I’m looking to collaborate on Projects, Tech Articles on data science, ML, AI 
 
