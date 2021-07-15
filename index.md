@@ -3,7 +3,7 @@
 
 This repository contains independent and academic projects completed by me.
 
-### Project
+### Projects
 ---
 [Credit Fraud Detection: Prediction/Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/8a2abfaf8b460c895b00a8b8c990d91c0091e881/projects/credit_fraud_detection.ipynb.ipynb): Model that predicts transactional credit fraud by utilizing machine learning techniques. 
 
@@ -17,7 +17,7 @@ This repository contains independent and academic projects completed by me.
 <img src="images/tiny-people-stock-traders-laptop-with-graph-chart-buy-sell-shares-stock-market-index-stockbroking-company-stock-exchange-data-concept_335657-1160.jpg?raw=true"/>
 
 ---
-[Titanic Dataset - Exploratory Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/6a4073a5f40449dcfef267ba95b3a2a8cb1891a6/projects/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
+[Titanic Dataset - Exploratory Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/6a4073a5f40449dcfef267ba95b3a2a8cb1891a6/projects/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
 
 *Tools used*: Pandas, Folium, Seaborn and Matplotlib
 <img src="images/titanic-css-float-none-cartoon-browserling-webcomic.png?raw=true"/>
