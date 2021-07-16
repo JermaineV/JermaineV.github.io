@@ -1,8 +1,8 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://raw.githubusercontent.com/JermaineV/JermaineV.github.io/main/images/Data%20science%20portfolio.png" alt="cover" />
+<img width="100%"height="250px"src="https://raw.githubusercontent.com/JermaineV/JermaineV.github.io/main/images/Data%20science%20portfolio.png" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello and welcome <Developers/>! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=JermaineV.JermaineV)
@@ -17,19 +17,33 @@
 
 - 🌱 I’m currently learning, AI, Neural Networks and blockchain
 
-- 👯 I’m looking to collaborate on Projects, Tech Articles on data science, ML, AI 
+- 👯 I’m looking to collaborate on Projects, blogs on DS, ML, AI.  
 
-- 💬 Talk to me about Python, SQL, database design and manipulation, Freelancing Opportunities, Open Source, etc. 
+- 💬 Please feel free to contact me with any opportunities: <a href="jvarnicker@gmail.com">email</a> 
 
 ---
-<h2> My Projects<img align='center'src='https://media.giphy.com/media/Cym9mYz9B5LpKJ8s2X/giphy.gif' width = '32px'></h2>
+<h2> My Qualifications </h2>
+
+
+[Academic results](https://github.com/JermaineV/JermaineV.github.io/blob/fe920fff23c69a89d27bcd126911c67d6bb7b457/pdf/Progress%20Report.pdf)
+
+<img src='https://media.giphy.com/media/fxT3qQ7NRbvP3Nle7V/giphy.gif' width = '100px'>
+
+
+[Microsoft T-SQL Certification](https://www.credly.com/badges/b509cdcd-1d97-4ab1-8220-4e6a40f17179/public_url)
+
+<img src='https://github.com/JermaineV/JermaineV.github.io/blob/d10bbad4ecb2fe620147ffc05e6a2589ab3e3e99/images/exam-761-querying-data-with-transact-sql.png' width = '100px'>
+
+---
+<h2> My Projects <img align='center'src='https://media.giphy.com/media/Cym9mYz9B5LpKJ8s2X/giphy.gif' width = '32px'></h2>
+
 
 [Credit Fraud Detection: Prediction/Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/8a2abfaf8b460c895b00a8b8c990d91c0091e881/projects/credit_fraud_detection.ipynb.ipynb): Model that predicts transactional credit fraud by utilizing machine learning techniques. 
 
 *Tools used*: pandas, numpy, nltk, sklearn, seaborn, matplotlib
 
 ---
-[Stock Market Analysis for Tech Stocks](loading): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
+[Stock Market Analysis for Tech Stocks](https://github.com/JermaineV/JermaineV.github.io/blob/afb69756970cbd6b8f99f12eb3c8239a478ed92b/projects/Stock%20Market%20Analysis/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.https:
 
 *Tools used*: Pandas, Folium, Seaborn and Matplotlib
 
@@ -39,7 +53,7 @@
 *Tools used*: Pandas, Folium, Seaborn and Matplotlib
 
 ---
-[Unsupervised Learning: Creating Customer Segments](http://example.com/): Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
+[Unsupervised Learning: Creating Customer Segments](https://github.com/JermaineV/JermaineV.github.io/blob/afb69756970cbd6b8f99f12eb3c8239a478ed92b/projects/Stock%20Market%20Analysis/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb): Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
 
 *Tools used*: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame
 
@@ -64,6 +78,7 @@
 <a href = 'https://www.linkedin.com/in/jermaine-varnicker-315a8794'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://jermainev.github.io/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/JermaineV'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
 
 
 
