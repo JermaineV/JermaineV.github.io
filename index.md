@@ -14,7 +14,7 @@ Direct links to my completed projects can be found below.
 <img src="images/money-bag-thief-eps-vector_csp35493988.jpg?raw=true"/>
 
 ---
-[Stock Market Analysis for Tech Stocks](loading): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
+[Stock Market Analysis for Tech Stocks](https://github.com/JermaineV/JermaineV.github.io/blob/3cd011d8c890535696b4f633a4922cc58227dcb5/projects/Stock%20Market%20Analysis/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
 
 *Tools used*: Pandas, Folium, Seaborn and Matplotlib
 <img src="images/tiny-people-stock-traders-laptop-with-graph-chart-buy-sell-shares-stock-market-index-stockbroking-company-stock-exchange-data-concept_335657-1160.jpg?raw=true"/>
@@ -26,14 +26,14 @@ Direct links to my completed projects can be found below.
 <img src="images/titanic-css-float-none-cartoon-browserling-webcomic.png?raw=true"/>
 
 ---
-[Unsupervised Learning: Creating Customer Segments](http://example.com/): Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
+[Unsupervised Learning: Creating Customer Segments](https://github.com/JermaineV/JermaineV.github.io/blob/3cd011d8c890535696b4f633a4922cc58227dcb5/projects/Unsupervised%20Learning:%20Creating%20Customer%20Segments/customer_segments.ipynb): Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
 
 *Tools used*: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame
 <img src="images/customer segmentation.jpg?raw=true"/>
 
 ---
 ### Mini Project
-[ML with Logistic Regressions](http://example.com/): : Using Logistic Regression to predict whether an internet user clicked an ad or not.
+[ML with Logistic Regressions](http://example.com/): Work In Progress : Using Logistic Regression to predict whether an internet user clicked an ad or not.
 <img src="images/click.png?raw=true"/>
 
 ---
