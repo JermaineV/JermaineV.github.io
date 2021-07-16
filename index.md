@@ -1,7 +1,7 @@
 ## Data Science Portfolio
 ---
 
-This repository contains independent and academic projects completed by me.
+This portfolio contains independent and academic projects completed by me. All projects are hosted on github, for an indepth view of my profile please visit my <a href="https://github.com/JermaineV">GitHub</a> profile
 
 ### Projects
 ---
