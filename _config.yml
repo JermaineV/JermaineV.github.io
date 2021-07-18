@@ -1,3 +1,4 @@
+
 title: <p align="center"> Jermaine Varnicker </p>
 
 logo: "images/IMG_20210715_231741.jpg?raw=true"
@@ -15,13 +16,15 @@ description:
   <br><br>
   
   ABOUT ME
-  <br><br>
-
+  <div class="slds-scrollable_y" style="height:5rem;width:24rem">
+  <p>
   I enjoy playing chess, online gaming and just having fun.
   
   Before entering the field of data science, I studied Mechatronic Engineering at the University of South Africa but I was unable to complete my degree after falling on some difficult times. 
   Later I was presented with the opportunity to study data science and having already had a background in programming thanks to my engineering studies I was able to perform exceptionally well as a student in the field.
   I am also a Certified Mcrosoft T-SQL programmer, below is a link to my accretied badge.
+  </p>
+  <div class="slds-text-longform">
   
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b509cdcd-1d97-4ab1-8220-4e6a40f17179" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
