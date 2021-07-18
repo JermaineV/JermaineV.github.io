@@ -1,12 +1,35 @@
 ## Data Science Portfolio
 ---
 
-This portfolio contains independent and academic projects completed by me for academic, self-learning and hobby purposes. All projects are hosted on github, for an indepth view of my profile please visit my <a href="https://github.com/JermaineV">GitHub</a> profile. 
+
+### Welcome to My Data Science Portfolio
+---
+
+This portfolio contains projects completed by me for academic, self-learning and hobby purposes. All projects are hosted on github, for an indepth view of my profile please visit my <a href="https://github.com/JermaineV">GitHub</a> profile. 
 
 Direct links to my completed projects can be found below.
 
+
+
 ---
-### Projects
+#### ABOUT ME
+
+
+---
+I enjoy playing chess, online gaming and just having fun.
+
+
+
+Before entering the field of data science, I studied Mechatronic Engineering at the University of South Africa but I was unable to complete my degree after falling on some difficult times. 
+
+Later I was presented with the opportunity to study data science and having already had a background in programming thanks to my engineering studies I was able to perform exceptionally well as a student in the field.
+
+I am also a Certified Mcrosoft T-SQL programmer, please click on the Microsoft badge below my profile picture sbould you wish to verify my certification.
+
+
+
+---
+### My Projects
 ---
 [Credit Fraud Detection: Prediction/Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/8a2abfaf8b460c895b00a8b8c990d91c0091e881/projects/credit_fraud_detection.ipynb.ipynb): Model that predicts transactional credit fraud by utilizing machine learning techniques. 
 
