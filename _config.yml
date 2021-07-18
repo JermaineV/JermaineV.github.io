@@ -11,12 +11,12 @@ description:
   <a href="mailto:jvarnicker@gmail.com">Email</a>
   </p>
   
-  <div class="slds-scrollable_y" style="height:5rem;width:24rem">
   <p>
   Welcome to My Data Science Portfolio
   <br><br>
   
   ABOUT ME
+  <br><br>
 
   I enjoy playing chess, online gaming and just having fun.
   
@@ -24,9 +24,7 @@ description:
   Later I was presented with the opportunity to study data science and having already had a background in programming thanks to my engineering studies I was able to perform exceptionally well as a student in the field.
   I am also a Certified Mcrosoft T-SQL programmer, below is a link to my accretied badge.
   </p>
-  <div class="slds-text-longform">
-  </div>
-</div>
+
   
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b509cdcd-1d97-4ab1-8220-4e6a40f17179" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
