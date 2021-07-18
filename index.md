@@ -55,9 +55,9 @@ I am also a Certified Mcrosoft T-SQL programmer, please click on the Microsoft b
 <img src="images/customer segmentation.jpg?raw=true"/>
 
 ---
-### Mini Project
+### Mini Project- CODING IN PROGRESS
 [ML with Logistic Regressions](http://example.com/): Work In Progress : Using Logistic Regression to predict whether an internet user clicked an ad or not.
-<img src="images/click.png?raw=true"/>
+<img src="https://github.com/JermaineV/JermaineV.github.io/blob/dc60229ef204b7fe301e3bd699ab7eb810c39657/images/giphy.gif?raw=true"/>
 
 ---
 
