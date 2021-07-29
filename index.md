@@ -19,12 +19,11 @@ Direct links to my completed projects can be found below.
 I enjoy playing chess, online gaming and just having fun.
 
 
-
 Before entering the field of data science, I studied Mechatronic Engineering at the University of South Africa but I was unable to complete my degree after falling on some difficult times. 
 
 Later I was presented with the opportunity to study data science and having already had a background in programming thanks to my engineering studies I was able to perform exceptionally well as a student in the field.
 
-I am also a Certified Mcrosoft T-SQL programmer, please click on the Microsoft badge below my profile picture sbould you wish to verify my certification.
+I am also a Certified Mcrosoft T-SQL programmer, please click on the Microsoft badge below my profile picture should you wish to verify my certification.
 
 
 
