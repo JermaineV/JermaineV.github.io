@@ -25,7 +25,7 @@
 <h2> My Qualifications </h2>
 
 
-[Academic results](https://github.com/JermaineV/JermaineV.github.io/blob/fe920fff23c69a89d27bcd126911c67d6bb7b457/pdf/Progress%20Report.pdf)
+[Academic results](https://github.com/JermaineV/JermaineV.github.io/blob/b1726226fc5a2ef7b358a25c38c624babdc3009c/pdf/3678482_Learnerships_5542337.trascript.pdf)
 
 <img src='https://media.giphy.com/media/fxT3qQ7NRbvP3Nle7V/giphy.gif' width = '100px'>
 
