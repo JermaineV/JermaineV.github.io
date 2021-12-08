@@ -3,16 +3,14 @@ title: <p align="center"> Jermaine Varnicker </p>
 logo: "images/IMG_20210715_231741.jpg?raw=true"   
 
 description:
-  <div data-iframe-width="200" data-iframe-height="250" data-share-badge-id="b509cdcd-1d97-4ab1-8220-4e6a40f17179" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <div data-iframe-width="250" data-iframe-height="250" data-share-badge-id="b509cdcd-1d97-4ab1-8220-4e6a40f17179" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   <p align="center">
   <a href="pdf/Resume-Jermaine-varnicker (1).pdf">Resume</a> |
   <a href="pdf/3678482_Learnerships_5542337.trascript.pdf">Academic Transcript </a> |
   <a href="https://www.linkedin.com/in/jermaine-varnicker-315a8794/">LinkedIn</a> |
   <a href="https://github.com/JermaineV">GitHub</a>  | 
   <a href="mailto:jvarnicker@gmail.com">Email</a>
-  </p>
-   <p>
-  Data scientist, Programmer, Developer, and a lover of all things tech. 
-  </p>
+ 
+ Data scientist, Programmer, Developer, and a lover of all things tech. 
 
 theme: jekyll-theme-minimal
