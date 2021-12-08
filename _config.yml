@@ -1,6 +1,7 @@
 title: <p align="center"> Jermaine Varnicker </p>
 
-logo: "images/IMG_20210715_231741.jpg?raw=true"   
+logo: "images/IMG_20210715_231741.jpg?raw=true" 
+ Data scientist, Programmer, Developer, and a lover of all things tech. 
 
 description:
   <div data-iframe-width="250" data-iframe-height="250" data-share-badge-id="b509cdcd-1d97-4ab1-8220-4e6a40f17179" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
@@ -11,6 +12,5 @@ description:
   <a href="https://github.com/JermaineV">GitHub</a>  | 
   <a href="mailto:jvarnicker@gmail.com">Email</a>
  
- Data scientist, Programmer, Developer, and a lover of all things tech. 
 
 theme: jekyll-theme-minimal
