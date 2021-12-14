@@ -48,12 +48,12 @@
 *Tools used*: Pandas, Folium, Seaborn and Matplotlib
 
 ---
-[Titanic Dataset - Exploratory Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/6a4073a5f40449dcfef267ba95b3a2a8cb1891a6/projects/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
+[Titanic Dataset - Exploratory Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/6a4073a5f40449dcfef267ba95b3a2a8cb1891a6/projects/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
 
 *Tools used*: Pandas, Folium, Seaborn and Matplotlib
 
 ---
-[Unsupervised Learning: Creating Customer Segments](https://github.com/JermaineV/JermaineV.github.io/blob/afb69756970cbd6b8f99f12eb3c8239a478ed92b/projects/Stock%20Market%20Analysis/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb): Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
+[Unsupervised Learning: Creating Customer Segments](https://github.com/JermaineV/JermaineV.github.io/blob/3cd011d8c890535696b4f633a4922cc58227dcb5/projects/Unsupervised%20Learning:%20Creating%20Customer%20Segments/customer_segments.ipynb): Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
 
 *Tools used*: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame
 
