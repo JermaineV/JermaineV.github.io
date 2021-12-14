@@ -43,7 +43,7 @@
 *Tools used*: pandas, numpy, nltk, sklearn, seaborn, matplotlib
 
 ---
-[Stock Market Analysis for Tech Stocks](https://github.com/JermaineV/JermaineV.github.io/blob/afb69756970cbd6b8f99f12eb3c8239a478ed92b/projects/Stock%20Market%20Analysis/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.https:
+[Stock Market Analysis for Tech Stocks](https://github.com/JermaineV/JermaineV.github.io/blob/afb69756970cbd6b8f99f12eb3c8239a478ed92b/projects/Stock%20Market%20Analysis/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
 
 *Tools used*: Pandas, Folium, Seaborn and Matplotlib
 
