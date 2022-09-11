@@ -59,7 +59,7 @@
 
 ---
 ### Mini Project
-<iframe title="Call Center" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=d5f51efc-eb42-4a59-bfc5-599e793531a2&autoAuth=true&ctid=f5ea3467-a1df-4d7e-a894-9a0c66d9b19e" frameborder="0" allowFullScreen="true"></iframe>
+[ML with Logistic Regressions-IN PROGRESS](https://github.com/JermaineV/JermaineV.github.io/blob/4f4d21e6c144b47b171b41878d8247d1dc47251d/images/giphy.gif): : Using Logistic Regression to predict whether an internet user clicked an ad or not.
 
 ---
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
