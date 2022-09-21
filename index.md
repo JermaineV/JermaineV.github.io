@@ -54,8 +54,8 @@ I am also a Certified Mcrosoft T-SQL programmer, please click on the Microsoft b
 <img src="images/customer segmentation.jpg?raw=true"/>
 
 ---
-[Simple COVID-19 Self screening program using python](https://github.com/JermaineV/Simple-Covid-19-self-Screening-program.git): The programme will tell if someone has COVID-19 or not, based on a number of preset questions. 
-NOTE# This project is purely to demonstrate, that not all problems require complex solutions.
+[Simple COVID-19 Self screening program using python](Simple_Covid_19_Screening_program.py): The programme will tell if someone has COVID-19 or not, based on a number of preset questions. 
+NOTE# This project is purely to demonstrate, that not all problems require complex solutions.--feel free to test it out.
 <img src="images/symptoms-covid-19-coronavirus-cartoon-style-infographic_1308-52033.jpg"/>
 
 ---
