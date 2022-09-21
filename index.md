@@ -54,6 +54,10 @@ I am also a Certified Mcrosoft T-SQL programmer, please click on the Microsoft b
 <img src="images/customer segmentation.jpg?raw=true"/>
 
 ---
+[Simple COVID-19 Self screening program using python](https://github.com/JermaineV/JermaineV.github.io/blob/e3df28db9eaecd01a0f53782955815c4cbde852b/images/symptoms-covid-19-coronavirus-cartoon-style-infographic_1308-52033.jpg): The programme will tell if someone has COVID-19 or not, based on a number of preset questions. 
+NOTE# This project is purely to demonstrate, that not all problems require complex solutions.
+
+---
 ### Mini Project- CODING IN PROGRESS
 [ML with Logistic Regressions](http://example.com/): Work In Progress : Using Logistic Regression to predict whether an internet user clicked an ad or not.
 <img src="https://github.com/JermaineV/JermaineV.github.io/blob/dc60229ef204b7fe301e3bd699ab7eb810c39657/images/giphy.gif?raw=true"/>
