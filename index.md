@@ -31,7 +31,7 @@ I am also a Certified Mcrosoft T-SQL programmer, please click on the Microsoft b
 ### My Projects
 ---
 
-[Loan Dataset - Exploratory Data Analysis(EDA)]
+[Loan Dataset - Exploratory Data Analysis(EDA)]:
 (https://github.com/JermaineV/JermaineV.github.io/blob/64767819f9348fc10f7b66cb0078c57dcd89af55/projects/sub3/Part_I_exploration%20(2).ipynb): Exploratory Analysis of the Prosper Loans company loan data using Pandas and Seaborn visualisations. 
 
 *Tools used*: Pandas, Seaborn and Matplotlib
