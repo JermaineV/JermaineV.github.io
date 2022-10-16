@@ -30,6 +30,15 @@ I am also a Certified Mcrosoft T-SQL programmer, please click on the Microsoft b
 ---
 ### My Projects
 ---
+
+[Loan Dataset - Exploratory Data Analysis(EDA)]
+(https://github.com/JermaineV/JermaineV.github.io/blob/64767819f9348fc10f7b66cb0078c57dcd89af55/projects/sub3/Part_I_exploration%20(2).ipynb): Exploratory Analysis of the Prosper Loans company loan data using Pandas and Seaborn visualisations. 
+
+*Tools used*: Pandas, Seaborn and Matplotlib
+<img src="https://github.com/JermaineV/JermaineV.github.io/blob/b39c14116b08ebfe8aaf89aa9d178012d8281f9d/images/267-2677308_loan-cartoon-loan-clipart-hd-png-download.png?raw=true"/>
+
+---
+
 [Credit Fraud Detection: Prediction/Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/8a2abfaf8b460c895b00a8b8c990d91c0091e881/projects/credit_fraud_detection.ipynb.ipynb): Model that predicts transactional credit fraud by utilizing machine learning techniques. 
 
 *Tools used*: pandas, numpy, nltk, sklearn, seaborn, matplotlib
