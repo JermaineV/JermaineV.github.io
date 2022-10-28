@@ -34,8 +34,7 @@ I am also a Certified Mcrosoft T-SQL programmer, please click on the Microsoft b
 [This project covers: Statistical analysis, PowerBI reporting and app deployment, Python DML]
 
 *Tools used*: PowerBi, Pandas, statistical calculation.
-![image](https://user-images.githubusercontent.com/78037138/198562306-55c580e9-e1ed-482c-84a7-1d237b75c6c9.png)
-
+![image](https://user-images.githubusercontent.com/78037138/198563643-27e4b0bd-d682-4c9a-ab0b-53ec12290153.png)
 
 ---
 
