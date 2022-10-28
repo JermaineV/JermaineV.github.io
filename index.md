@@ -33,8 +33,8 @@ I am also a Certified Mcrosoft T-SQL programmer, please click on the Microsoft b
 #### Final college project:
 [This project covers: Statistical analysis, PowerBI reporting and app deployment, Python DML]
 
-*Tools used*: PowerBi, Pandas, statistical calculation.
-https://github.com/JermaineV/JermaineV.github.io/blob/d48fc08d8aa787c23c76c7c268fdecece66d38e4/projects/82554fad24fc8c51be8c00565dcc62beb5b86660.pdf
+*Tools used*: PowerBi, Pandas, statistical methods.
+<a href="https://github.com/JermaineV/JermaineV.github.io/blob/d48fc08d8aa787c23c76c7c268fdecece66d38e4/projects/82554fad24fc8c51be8c00565dcc62beb5b86660.pdf" target="_blank">PDF.</a>
 ---
 
 [Loan Dataset - Exploratory Data Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/64767819f9348fc10f7b66cb0078c57dcd89af55/projects/sub3/Part_I_exploration%20(2).ipynb): Exploratory Analysis of the Prosper Loans company loan data using Pandas and Seaborn visualisations. 
