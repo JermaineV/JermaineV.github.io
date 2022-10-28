@@ -31,11 +31,11 @@ I am also a Certified Mcrosoft T-SQL programmer, please click on the Microsoft b
 ### My Projects
 ---
 #### Final college project:
-[This project covers: Statistical analysis, PowerBI reporting and app deployment, Python DML] (https://github.com/JermaineV/JermaineV.github.io/blob/d48fc08d8aa787c23c76c7c268fdecece66d38e4/projects/82554fad24fc8c51be8c00565dcc62beb5b86660.pdf): All Scenarios, code and data source infomation are included in the report.
+[This project covers: Statistical analysis, PowerBI reporting and app deployment, Python DML](https://github.com/JermaineV/JermaineV.github.io/blob/d48fc08d8aa787c23c76c7c268fdecece66d38e4/projects/82554fad24fc8c51be8c00565dcc62beb5b86660.pdf): All Scenarios, code and data source infomation are included in the report.
 
 
 *Tools used*: PowerBi, Pandas, statistical methods.
-![image](https://user-images.githubusercontent.com/78037138/198566758-7afb11e9-a176-4ce4-839c-f5a80835308e.png)
+![image](https://user-images.githubusercontent.com/78037138/198569998-ceca43ca-c7e4-43cd-90a1-750abdd02368.png)
 
 ---
 #### Personal projects:
