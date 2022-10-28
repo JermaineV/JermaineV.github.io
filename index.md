@@ -30,6 +30,14 @@ I am also a Certified Mcrosoft T-SQL programmer, please click on the Microsoft b
 ---
 ### My Projects
 ---
+#### Final college project:
+[This project covers: Statistical analysis, PowerBI reporting and app deployment, Python DML]
+
+*Tools used*: PowerBi, Pandas, statistical calculation.
+![image](https://user-images.githubusercontent.com/78037138/198562306-55c580e9-e1ed-482c-84a7-1d237b75c6c9.png)
+
+
+---
 
 [Loan Dataset - Exploratory Data Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/64767819f9348fc10f7b66cb0078c57dcd89af55/projects/sub3/Part_I_exploration%20(2).ipynb): Exploratory Analysis of the Prosper Loans company loan data using Pandas and Seaborn visualisations. 
 
