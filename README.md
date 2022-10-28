@@ -15,7 +15,7 @@
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2></h2>
 
 
-- 🌱 I’m currently learning, AI, Neural Networks and blockchain
+- 🌱 I’m currently learning, AI, Neural Networks and MAchine Learning
 
 - 👯 I’m looking to collaborate on Projects, blogs on DS, ML, AI.  
 
@@ -25,7 +25,7 @@
 <h2> My Qualifications </h2>
 
 
-[Academic results](pdf/3678482_Learnerships_5542337.trascript.pdf)
+[Certificates and Academic transcripts](https://github.com/JermaineV/JermaineV.github.io/blob/13a1326e545d2040b9740d11be64072125ec358e/pdf/pdfjoiner%20(1).pdf)
 
 <img src='https://media.giphy.com/media/fxT3qQ7NRbvP3Nle7V/giphy.gif' width = '100px'>
 
@@ -37,6 +37,15 @@
 ---
 <h2> My Projects <img align='center'src='https://media.giphy.com/media/Cym9mYz9B5LpKJ8s2X/giphy.gif' width = '32px'></h2>
 
+#### Final college Data Science project:
+[This project/Report covers](https://github.com/JermaineV/JermaineV.github.io/blob/d48fc08d8aa787c23c76c7c268fdecece66d38e4/projects/82554fad24fc8c51be8c00565dcc62beb5b86660.pdf): Statistical analysis, PowerBI reporting and app deployment, Python DML. All Scenarios, code and data source infomation are included in the report.
+
+
+*Tools used*: PowerBi, Pandas, statistical methods.
+![image](https://user-images.githubusercontent.com/78037138/198569998-ceca43ca-c7e4-43cd-90a1-750abdd02368.png)
+
+---
+#### Personal projects:
 
 [Credit Fraud Detection: Prediction/Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/8a2abfaf8b460c895b00a8b8c990d91c0091e881/projects/credit_fraud_detection.ipynb.ipynb): Model that predicts transactional credit fraud by utilizing machine learning techniques. 
 
@@ -46,6 +55,10 @@
 [Stock Market Analysis for Tech Stocks](https://github.com/JermaineV/JermaineV.github.io/blob/afb69756970cbd6b8f99f12eb3c8239a478ed92b/projects/Stock%20Market%20Analysis/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
 
 *Tools used*: Pandas, Folium, Seaborn and Matplotlib
+
+---
+[Loan Dataset - Exploratory Data Analysis(EDA)](https://github.com/JermaineV/JermaineV.github.io/blob/64767819f9348fc10f7b66cb0078c57dcd89af55/projects/sub3/Part_I_exploration%20(2).ipynb): Exploratory Analysis of the Prosper Loans company loan data using Pandas and Seaborn visualisations.
+*Tools used*: Pandas, Seaborn and Matplotlib
 
 ---
 [Titanic Dataset - Exploratory Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/6a4073a5f40449dcfef267ba95b3a2a8cb1891a6/projects/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
@@ -58,8 +71,11 @@
 *Tools used*: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame
 
 ---
+[Simple COVID-19 Self screening program using python](https://github.com/JermaineV/Simple-Covid-19-self-Screening-program.git): The programme will tell if someone has COVID-19 or not, based on a number of preset questions
+
+---
 ### Mini Project
-[ML with Logistic Regressions-IN PROGRESS](https://github.com/JermaineV/JermaineV.github.io/blob/4f4d21e6c144b47b171b41878d8247d1dc47251d/images/giphy.gif): : Using Logistic Regression to predict whether an internet user clicked an ad or not.
+[ML with Logistic Regressions-IN PROGRESS](https://github.com/JermaineV/JermaineV.github.io/blob/4f4d21e6c144b47b171b41878d8247d1dc47251d/images/giphy.gif): Using Logistic Regression to predict whether an internet user clicked an ad or not.
 
 ---
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
