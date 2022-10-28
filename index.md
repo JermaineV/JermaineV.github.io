@@ -43,7 +43,61 @@ I am also a Certified Mcrosoft T-SQL programmer, please click on the Microsoft b
 [Loan Dataset - Exploratory Data Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/64767819f9348fc10f7b66cb0078c57dcd89af55/projects/sub3/Part_I_exploration%20(2).ipynb): Exploratory Analysis of the Prosper Loans company loan data using Pandas and Seaborn visualisations. 
 
 *Tools used*: Pandas, Seaborn and Matplotlib
-<img src="https://github.com/JermaineV/JermaineV.github.io/blob/b39c14116b08ebfe8aaf89aa9d178012d8281f9d/images/267-2677308_loan-cartoon-loan-clipart-hd-png-download.png?raw=true"/>
+    -moz-box-orient: vertical;
+    -moz-box-align: stretch;
+    display: box;
+    box-orient: vertical;
+    box-align: stretch;
+    /* Modern browsers */
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+  }
+}
+div.output_area pre {
+  margin: 0;
+  padding: 1px 0 1px 0;
+  border: 0;
+  vertical-align: baseline;
+  color: black;
+  background-color: transparent;
+  border-radius: 0;
+}
+/* This class is for the output subarea inside the output_area and after
+   the prompt div. */
+div.output_subarea {
+  overflow-x: auto;
+  padding: 0.4em;
+  /* Old browsers */
+  -webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  box-flex: 1;
+  /* Modern browsers */
+  flex: 1;
+  max-width: calc(100% - 14ex);
+}
+div.output_scroll div.output_subarea {
+  overflow-x: visible;
+}
+/* The rest of the output_* classes are for special styling of the different
+   output types */
+/* all text output has this class: */
+div.output_text {
+  text-align: left;
+  color: #000;
+  /* This has to match that of the the CodeMirror class line-height below */
+  line-height: 1.21429em;
+}
+/* stdout/stderr are 'text' as well as 'stream', but execute_result/error are *not* streams */
+div.output_stderr {
+  background: #fdd;
+  /* very light red background for stderr */
+}
+div.output_latex {
+  text-align: left;
+}
+/* Empty output_javascript divs should have no height */
+div.output_javascript:empty {
 
 ---
 
