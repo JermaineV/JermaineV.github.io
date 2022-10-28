@@ -31,7 +31,7 @@ I am also a Certified Mcrosoft T-SQL programmer, please click on the Microsoft b
 ### My Projects
 ---
 #### Final college Data Science project:
-[This project/Report covers]: (https://github.com/JermaineV/JermaineV.github.io/blob/d48fc08d8aa787c23c76c7c268fdecece66d38e4/projects/82554fad24fc8c51be8c00565dcc62beb5b86660.pdf): Statistical analysis, PowerBI reporting and app deployment, Python DML. All Scenarios, code and data source infomation are included in the report.
+[This project/Report covers](https://github.com/JermaineV/JermaineV.github.io/blob/d48fc08d8aa787c23c76c7c268fdecece66d38e4/projects/82554fad24fc8c51be8c00565dcc62beb5b86660.pdf): Statistical analysis, PowerBI reporting and app deployment, Python DML. All Scenarios, code and data source infomation are included in the report.
 
 
 *Tools used*: PowerBi, Pandas, statistical methods.
