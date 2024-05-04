@@ -25,7 +25,7 @@
 <h2> My Qualifications </h2>
 
 
-[Certificates and Academic transcripts](https://github.com/JermaineV/JermaineV.github.io/blob/13a1326e545d2040b9740d11be64072125ec358e/pdf/pdfjoiner%20(1).pdf)
+[Certificates and Academic transcripts](https://github.com/JermaineV/JermaineV.github.io/blob/1f9a9b05065528ba672d72c660a7d3fd15e9a64e/pdf/transcripts%20-%20Jermaine%20Varnicker.pdf)
 
 <img src='https://media.giphy.com/media/fxT3qQ7NRbvP3Nle7V/giphy.gif' width = '100px'>
 
@@ -75,7 +75,7 @@
 
 ---
 ### Mini Project
-[ML with Logistic Regressions-IN PROGRESS](https://github.com/JermaineV/JermaineV.github.io/blob/4f4d21e6c144b47b171b41878d8247d1dc47251d/images/giphy.gif): Using Logistic Regression to predict whether an internet user clicked an ad or not.
+[ML with Logistic Regressions-**IN PROGRESS**](https://github.com/JermaineV/JermaineV.github.io/blob/4f4d21e6c144b47b171b41878d8247d1dc47251d/images/giphy.gif): Using Logistic Regression to predict whether an internet user clicked an ad or not.
 
 ---
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
