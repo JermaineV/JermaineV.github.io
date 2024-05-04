@@ -5,7 +5,7 @@
 ### Welcome to My Data Science Portfolio
 ---
 
-This portfolio contains projects completed by me for academic, self-learning and hobby purposes. All projects are hosted on github, for an indepth view of my profile please visit my <a href="https://github.com/JermaineV">GitHub</a> profile. 
+This portfolio contains projects completed by me for academic, self-learning and hobby purposes. All projects are hosted on github For an indepth view of my profile please visit my <a href="https://github.com/JermaineV">GitHub</a> profile. 
 
 Direct links to my completed projects can be found below.
 
@@ -16,14 +16,16 @@ Direct links to my completed projects can be found below.
 
 
 ---
-I enjoy playing chess, online gaming and just having fun.
 
+I enjoy playing chess, online gaming, and having fun in various activities.
 
-Before entering the field of data science, I studied Mechatronic Engineering at the University of South Africa but I was unable to complete my degree after falling on some difficult times. 
+My academic journey began with Mechatronic Engineering studies at the University of South Africa, though I faced personal challenges that interrupted my degree completion.
 
-Later I was presented with the opportunity to study data science and having already had a background in programming thanks to my engineering studies I was able to perform exceptionally well as a student in the field.
+Later, I discovered my passion for data science and excelled in the field, drawing on my programming background from engineering.
 
-I am also a Certified Mcrosoft T-SQL programmer, please click on the Microsoft badge below my profile picture should you wish to verify my certification.
+In addition to my data science proficiency, I hold certification as a Data Management Professional from DAMA International. This certification reflects my dedication to high standards in data management practices.
+
+Furthermore, I am a Certified Microsoft T-SQL programmer. You can verify both certifications by clicking on the respective badges below my profile picture.
 
 
 
