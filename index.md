@@ -170,19 +170,12 @@ Using machine learning models to predict trends in renewable energy usage based 
 
 - [Data Management Fundamentals Exam: Practitioner Level](https://api.badgr.io/public/assertions/AoRMW571Q96NNfnl9nHnqA?identity__email=jvarnicker%40gmail.com)
   
-  ![Data Management Fundamentals Badge](https://api.badgr.io/public/assertions/AoRMW571Q96NNfnl9nHnqA/image)
+  [![Data Management Fundamentals Badge](https://api.badgr.io/public/assertions/AoRMW571Q96NNfnl9nHnqA/image)](https://api.badgr.io/public/assertions/AoRMW571Q96NNfnl9nHnqA?identity__email=jvarnicker%40gmail.com)
   
 - [DAMA CDMP Certification - Associate](https://api.badgr.io/public/assertions/A7p_wa4mRkyOGKNYP78Y8w?identity__email=jvarnicker%40gmail.com)
 
-  ![DAMA CDMP Certification Badge](https://api.badgr.io/public/assertions/A7p_wa4mRkyOGKNYP78Y8w/image)
+  [![DAMA CDMP Certification Badge](https://api.badgr.io/public/assertions/A7p_wa4mRkyOGKNYP78Y8w/image)](https://api.badgr.io/public/assertions/A7p_wa4mRkyOGKNYP78Y8w?identity__email=jvarnicker%40gmail.com)
 
 - [Microsoft T-SQL Programmer Certification](https://www.credly.com/badges/b509cdcd-1d97-4ab1-8220-4e6a40f17179)
   
-  <iframe
-  title="Microsoft T-SQL Programmer Certification Badge"
-  src="https://www.credly.com/embedded_badge/218bad94-f53a-4988-8195-32e924769ef1?identity__email=jvarnicker%40gmail.com"
-  width="150"
-  height="270"
-  frameborder="0"
-  allowfullscreen
-  ></iframe>
+  <a href="https://www.credly.com/badges/b509cdcd-1d97-4ab1-8220-4e6a40f17179"><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b509cdcd-1d97-4ab1-8220-4e6a40f17179" data-share-badge-host="https://www.credly.com"></div></a><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
