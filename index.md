@@ -178,5 +178,11 @@ Using machine learning models to predict trends in renewable energy usage based 
 
 - [Microsoft T-SQL Programmer Certification](https://www.credly.com/badges/b509cdcd-1d97-4ab1-8220-4e6a40f17179)
   
-  ![Microsoft T-SQL Programmer Certification Badge](https://images.credly.com/size/340x340/images/67f66339-5c3b-4f97-b14d-6b00b8f3be4e/MOS-SQL_Associate-600x600.png)
-
+  <iframe
+  title="Microsoft T-SQL Programmer Certification Badge"
+  src="https://www.credly.com/embedded_badge/218bad94-f53a-4988-8195-32e924769ef1?identity__email=jvarnicker%40gmail.com"
+  width="150"
+  height="270"
+  frameborder="0"
+  allowfullscreen
+  ></iframe>
