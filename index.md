@@ -22,16 +22,17 @@ In addition to my data science proficiency, I hold certification as a Data Manag
 Furthermore, I am a Certified Microsoft T-SQL programmer. You can verify my certifications by clicking on the respective badges below.
 
 ---
+#### Certifications:
 <p align="center">
     <div style="display: inline-block;">
-      <div data-iframe-width="150" data-iframe-height="150" data-share-badge-id="b509cdcd-1d97-4ab1-8220-4e6a40f17179" data-share-badge-host="https://www.credly.com"></div>
+      <div data-iframe-width="200" data-iframe-height="200" data-share-badge-id="b509cdcd-1d97-4ab1-8220-4e6a40f17179" data-share-badge-host="https://www.credly.com"></div>
       <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
     </div>
     <a href="https://api.badgr.io/public/assertions/AoRMW571Q96NNfnl9nHnqA?identity__email=jvarnicker%40gmail.com">
-      <img src="https://api.badgr.io/public/assertions/AoRMW571Q96NNfnl9nHnqA/image" alt="Data Management Fundamentals Badge" width="150" height="150">
+      <img src="https://api.badgr.io/public/assertions/AoRMW571Q96NNfnl9nHnqA/image" alt="Data Management Fundamentals Badge" width="200" height="200">
     </a>
     <a href="https://api.badgr.io/public/assertions/A7p_wa4mRkyOGKNYP78Y8w?identity__email=jvarnicker%40gmail.com">
-      <img src="https://api.badgr.io/public/assertions/A7p_wa4mRkyOGKNYP78Y8w/image" alt="DAMA CDMP Certification Badge" width="150" height="150">
+      <img src="https://api.badgr.io/public/assertions/A7p_wa4mRkyOGKNYP78Y8w/image" alt="DAMA CDMP Certification Badge" width="200" height="200">
     </a>
   </p>
 ---
@@ -176,19 +177,3 @@ Using machine learning models to predict trends in renewable energy usage based 
 ---
 
 ### More Projects and challenges will be added in the future.
-
----
-
-#### Certifications:
-
-- [Data Management Fundamentals Exam: Practitioner Level](https://api.badgr.io/public/assertions/AoRMW571Q96NNfnl9nHnqA?identity__email=jvarnicker%40gmail.com)
-  
-  [![Data Management Fundamentals Badge](https://api.badgr.io/public/assertions/AoRMW571Q96NNfnl9nHnqA/image)](https://api.badgr.io/public/assertions/AoRMW571Q96NNfnl9nHnqA?identity__email=jvarnicker%40gmail.com)
-  
-- [DAMA CDMP Certification - Associate](https://api.badgr.io/public/assertions/A7p_wa4mRkyOGKNYP78Y8w?identity__email=jvarnicker%40gmail.com)
-
-  [![DAMA CDMP Certification Badge](https://api.badgr.io/public/assertions/A7p_wa4mRkyOGKNYP78Y8w/image)](https://api.badgr.io/public/assertions/A7p_wa4mRkyOGKNYP78Y8w?identity__email=jvarnicker%40gmail.com)
-
-- [Microsoft T-SQL Programmer Certification](https://www.credly.com/badges/b509cdcd-1d97-4ab1-8220-4e6a40f17179)
-  
-  [![Microsoft T-SQL Programmer Certification Badge](https://github.com/JermaineV/JermaineV.github.io/blob/a1e0ac3d33660e240a9731ce7ae821b1d696927a/images/exam-761-querying-data-with-transact-sql.png?raw=true)](https://www.credly.com/badges/b509cdcd-1d97-4ab1-8220-4e6a40f17179)
