@@ -75,6 +75,7 @@ This project aims to develop a platform that utilizes Artificial Intelligence (A
 #### [Renewable Energy Usage Prediction](https://github.com/JermaineV/Renewable-Energy-Usage-Prediction): 
 
 Using machine learning models to predict trends in renewable energy usage based on historical data and various socio-economic factors.
+
 [![Renewable Energy Usage Prediction Image](https://github.com/JermaineV/JermaineV.github.io/blob/6f8157c4bf93060da1c072700be8f41fa1cee3b4/images/energy1.jpeg?raw=true)](https://github.com/JermaineV/Renewable-Energy-Usage-Prediction)
 
 **Tools used:** 
