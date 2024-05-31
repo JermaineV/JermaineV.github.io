@@ -38,7 +38,7 @@ Furthermore, I am a Certified Microsoft T-SQL programmer. You can verify both ce
 - **Text Analysis**: Perform sentiment analysis, keyword extraction, and named entity recognition
 - **LLM Integration**: Use pre-trained LLMs to generate responses based on user input
 
-[Video showcasing the initial features](https://1drv.ms/v/s!AuRvf69NQWuRqGksWC_S1K_aXV7N?e=H2SglP)
+[Video showcasing the initial features](https://1drv.ms/v/s!AuRvf69NQWuRqGrrkG9EW8cE-o4z?e=Amhrcv)
 
 ## Future Development:
 - Enhance response generation using the LLM with context awareness and conversation history
