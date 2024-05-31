@@ -1,17 +1,24 @@
-title: <p align="center"> Jermaine Varnicker </p>
-logo: "images/IMG_20210715_231741.jpg?raw=true" 
+title: "<p align='center'>Jermaine Varnicker</p>"
+logo: "images/IMG_20210715_231741.jpg?raw=true"
 
-
-description:
-   Data scientist, AI/ML Engineer, Developer, and a lover of all things tech.
-  <div data-iframe-width="280" data-iframe-height="230" data-share-badge-id="b509cdcd-1d97-4ab1-8220-4e6a40f17179" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  <p align="center">
-
-  <a href="pdf/Jermaine resume24.pdf">Resume</a> |
-  <a href="pdf/transcripts - Jermaine Varnicker.pdf">Academic Transcript </a> |
-  <a href="https://www.linkedin.com/in/jermaine-varnicker-315a8794/">LinkedIn</a> |
-  <a href="https://github.com/JermaineV">GitHub</a> | 
-  <a href="mailto:jvarnicker@gmail.com">Email</a>
- 
+description: |
+  Data scientist, AI/ML Engineer, Developer, and a lover of all things tech.
+  <div>
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b509cdcd-1d97-4ab1-8220-4e6a40f17179" data-share-badge-host="https://www.credly.com"></div>
+    <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    <a href="https://api.badgr.io/public/assertions/AoRMW571Q96NNfnl9nHnqA?identity__email=jvarnicker%40gmail.com">
+      <img src="https://api.badgr.io/public/assertions/AoRMW571Q96NNfnl9nHnqA/image" width="120px" height="120px" alt="Data Management Fundamentals Badge">
+    </a>
+    <a href="https://api.badgr.io/public/assertions/A7p_wa4mRkyOGKNYP78Y8w?identity__email=jvarnicker%40gmail.com">
+      <img src="https://api.badgr.io/public/assertions/A7p_wa4mRkyOGKNYP78Y8w/image" width="120px" height="120px" alt="DAMA CDMP Certification Badge">
+    </a>
+  </div>
+  <p align='center'>
+    <a href="pdf/Jermaine resume24.pdf">Resume</a> |
+    <a href="pdf/transcripts - Jermaine Varnicker.pdf">Academic Transcript</a> |
+    <a href="https://www.linkedin.com/in/jermaine-varnicker-315a8794/">LinkedIn</a> |
+    <a href="https://github.com/JermaineV">GitHub</a> |
+    <a href="mailto:jvarnicker@gmail.com">Email</a>
+  </p>
 
 theme: jekyll-theme-minimal
