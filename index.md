@@ -158,7 +158,7 @@ Using machine learning models to predict trends in renewable energy usage based 
 
 *NOTE*: This project is purely to demonstrate that not all problems require complex solutions. Feel free to test it out.
 
-![COVID-19 Self Screening Image](https://github.com/JermaineV/Simple-Covid-19-self-Screening-program/blob/18001a04702c88b76a80368f38af41207bd114bd/images/symptoms-covid-19-coronavirus-cartoon-style-infographic_1308-52033.jpg?raw=true)
+![COVID-19 Self Screening Image](https://github.com/JermaineV/JermaineV.github.io/blob/34b5393e78813ea301ac1cb9cf815a47f0a9fc7c/images/symptoms-covid-19-coronavirus-cartoon-style-infographic_1308-52033.jpg?raw=true)
 
 ---
 
