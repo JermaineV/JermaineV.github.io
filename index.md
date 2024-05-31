@@ -46,12 +46,14 @@ Furthermore, I am a Certified Microsoft T-SQL programmer. You can verify my cert
 
 This project aims to develop a platform that utilizes Artificial Intelligence (AI) to assist users in improving their communication skills for public speaking and interviews.
 
+[![AI Communication Coach Image](https://github.com/JermaineV/JermaineV.github.io/blob/9485850cfc3d0007e00998eb6b26f9225f5d1721/images/botpic.jpeg?raw=true)](https://github.com/JermaineV/AI_Coach)
+
 **Current Functionality:**
 - Speech Recognition: Capture and analyze user speech
 - Text Analysis: Perform sentiment analysis, keyword extraction, and named entity recognition
 - LLM Integration: Use pre-trained LLMs to generate responses based on user input
 
-[Video showcasing the initial features](https://1drv.ms/v/s!AuRvf69NQWuRqGrrkG9EW8cE-o4z?e=Amhrcv)
+[Video showcasing the current features](https://1drv.ms/v/s!AuRvf69NQWuRqGrrkG9EW8cE-o4z?e=Amhrcv)
 
 **Future Development:**
 - Enhance response generation using the LLM with context awareness and conversation history
@@ -65,8 +67,6 @@ This project aims to develop a platform that utilizes Artificial Intelligence (A
 - NLP Libraries: NLTK, spaCy, TextBlob
 - Transformers: Hugging Face Transformers for text generation
 - (Optional) OpenCV: Computer Vision for future features
-
-[![AI Communication Coach Image](https://github.com/JermaineV/JermaineV.github.io/blob/9485850cfc3d0007e00998eb6b26f9225f5d1721/images/botpic.jpeg?raw=true)](https://github.com/JermaineV/AI_Coach)
 
 ---
 
