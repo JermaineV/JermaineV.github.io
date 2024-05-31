@@ -38,7 +38,7 @@
 <h2> My Projects <img align='center'src='https://media.giphy.com/media/Cym9mYz9B5LpKJ8s2X/giphy.gif' width = '32px'></h2>
 
 #### Final college Data Science project:
-[This project/Report covers](https://github.com/JermaineV/JermaineV.github.io/blob/d48fc08d8aa787c23c76c7c268fdecece66d38e4/projects/82554fad24fc8c51be8c00565dcc62beb5b86660.pdf): Statistical analysis, PowerBI reporting and app deployment, Python DML. All Scenarios, code and data source infomation are included in the report.
+[This project/Report covers](https://github.com/JermaineV/JermaineV.github.io/blob/d48fc08d8aa787c23c76c7c268fdecece66d38e4/projects/82554fad24fc8c51be8c00565dcc62beb5b86660.pdf): Statistical analysis, PowerBI reporting and app deployment, Python, DML. All Scenarios, code and data source infomation are included in the report.
 
 
 *Tools used*: PowerBi, Pandas, statistical methods.
@@ -46,6 +46,30 @@
 
 ---
 #### Personal projects:
+
+---
+[AI Communication Coach 2024(in progress)](https://github.com/JermaineV/AI_Coach): This project aims to develop a platform that utilizes Artificial Intelligence (AI) to assist users in improving their communication skills for public speaking and interviews:
+
+*Current Functionality*:
+**Speech Recognition**: Capture and analyze user speech,
+**Text Analysis**: Perform sentiment analysis, keyword extraction, and named entity recognition,
+**LLM Integration**: Use pre-trained LLMs to generate responses based on user input.
+[Video showcasing the initial features](https://1drv.ms/v/s!AuRvf69NQWuRqGrrkG9EW8cE-o4z?e=Amhrcv)
+
+*Future Development*:
+Enhance response generation using the LLM with context awareness and conversation history,
+Integrate feedback mechanisms to improve the coach's responses over time,
+Explore additional features like voice synthesis for coach responses or sentiment visualization.
+
+*Tools used*: 
+**Python**: Programming Language,
+**Jupyter Notebook**: Development environment,
+**SpeechRecognition**: Speech Recognition,
+**NLP Libraries**: NLTK, spaCy, TextBlob,
+**Transformers**: Hugging Face Transformers for text generation,
+**(Optional) OpenCV**: Computer Vision for future features
+
+---
 
 [Credit Fraud Detection: Prediction/Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/8a2abfaf8b460c895b00a8b8c990d91c0091e881/projects/credit_fraud_detection.ipynb.ipynb): Model that predicts transactional credit fraud by utilizing machine learning techniques. 
 
@@ -74,9 +98,16 @@
 [Simple COVID-19 Self screening program using python](https://github.com/JermaineV/Simple-Covid-19-self-Screening-program.git): The programme will tell if someone has COVID-19 or not, based on a number of preset questions
 
 ---
-### Mini Project
-[ML with Logistic Regressions-**IN PROGRESS**](https://github.com/JermaineV/JermaineV.github.io/blob/4f4d21e6c144b47b171b41878d8247d1dc47251d/images/giphy.gif): Using Logistic Regression to predict whether an internet user clicked an ad or not.
+### Mini Project- CODING IN PROGRESS
+[Renewable Energy Usage Prediction](https://github.com/JermaineV/Renewable-Energy-Usage-Prediction): Work in progress: Using machine learning models to predict trends in renewable energy usage based on historical data and various socio-economic factors.
 
+## Tools used: 
+- **Python**
+- **Pandas**
+- **NumPy**
+- **Scikit-learn**
+- **Matplotlib**
+- **Seaborn**
 ---
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/JermaineV?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
