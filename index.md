@@ -72,9 +72,10 @@ This project aims to develop a platform that utilizes Artificial Intelligence (A
 
 #### Mini Project - CODING IN PROGRESS
 
-**Renewable Energy Usage Prediction** (Work in progress)
+#### [Renewable Energy Usage Prediction](https://github.com/JermaineV/Renewable-Energy-Usage-Prediction): 
 
 Using machine learning models to predict trends in renewable energy usage based on historical data and various socio-economic factors.
+[![Renewable Energy Usage Prediction Image](https://github.com/JermaineV/JermaineV.github.io/blob/6f8157c4bf93060da1c072700be8f41fa1cee3b4/images/energy1.jpeg?raw=true)](https://github.com/JermaineV/Renewable-Energy-Usage-Prediction)
 
 **Tools used:** 
 - Python
@@ -83,8 +84,6 @@ Using machine learning models to predict trends in renewable energy usage based 
 - Scikit-learn
 - Matplotlib
 - Seaborn
-
-![Renewable Energy Usage Prediction Image](https://github.com/JermaineV/JermaineV.github.io/blob/6f8157c4bf93060da1c072700be8f41fa1cee3b4/images/energy1.jpeg?raw=true)
 
 ---
 
@@ -94,7 +93,11 @@ Using machine learning models to predict trends in renewable energy usage based 
 
 #### Final College Data Science Project:
 
-[This project/report covers](https://github.com/JermaineV/JermaineV.github.io/blob/d48fc08d8aa787c23c76c7c268fdecece66d38e4/projects/82554fad24fc8c51be8c00565dcc62beb5b86660.pdf): Statistical analysis, PowerBI reporting and app deployment, Python DML. All scenarios, code, and data source information are included in the report.
+[This project/report covers](https://github.com/JermaineV/JermaineV.github.io/blob/d48fc08d8aa787c23c76c7c268fdecece66d38e4/projects/82554fad24fc8c51be8c00565dcc62beb5b86660.pdf): 
+
+Statistical analysis, PowerBI reporting and app deployment, Python DML. All scenarios, code, and data source information are included in the report.
+
+[![Final Project Image](https://user-images.githubusercontent.com/78037138/198569998-ceca43ca-c7e4-43cd-90a1-750abdd02368.png)](https://github.com/JermaineV/JermaineV.github.io/blob/d48fc08d8aa787c23c76c7c268fdecece66d38e4/projects/82554fad24fc8c51be8c00565dcc62beb5b86660.pdf))
 
 **Tools used:** 
 - PowerBI
@@ -103,24 +106,29 @@ Using machine learning models to predict trends in renewable energy usage based 
 - Jupyter Notebook
 - Statistical methods
 
-![Final Project Image](https://user-images.githubusercontent.com/78037138/198569998-ceca43ca-c7e4-43cd-90a1-750abdd02368.png)
-
 ---
 
 #### Personal Projects:
 
-[Loan Dataset - Exploratory Data Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/64767819f9348fc10f7b66cb0078c57dcd89af55/projects/sub3/Part_I_exploration%20(2).ipynb): Exploratory analysis of the Prosper Loans company loan data using Pandas and Seaborn visualizations.
+[Loan Dataset - Exploratory Data Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/64767819f9348fc10f7b66cb0078c57dcd89af55/projects/sub3/Part_I_exploration%20(2).ipynb): 
+
+Exploratory analysis of the Prosper Loans company loan data using Pandas and Seaborn visualizations.
+
+[![Loan Dataset Image](https://github.com/JermaineV/JermaineV.github.io/blob/b39c14116b08ebfe8aaf89aa9d178012d8281f9d/images/267-2677308_loan-cartoon-loan-clipart-hd-png-download.png?raw=true)](https://github.com/JermaineV/JermaineV.github.io/blob/64767819f9348fc10f7b66cb0078c57dcd89af55/projects/sub3/Part_I_exploration%20(2).ipynb)
 
 **Tools used:** 
 - Pandas
 - Seaborn
 - Matplotlib
 
-![Loan Dataset Image](https://github.com/JermaineV/JermaineV.github.io/blob/b39c14116b08ebfe8aaf89aa9d178012d8281f9d/images/267-2677308_loan-cartoon-loan-clipart-hd-png-download.png?raw=true)
-
 ---
 
-[Credit Fraud Detection: Prediction/Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/8a2abfaf8b460c895b00a8b8c990d91c0091e881/projects/credit_fraud_detection.ipynb.ipynb): Model that predicts transactional credit fraud by utilizing machine learning techniques.
+[Credit Fraud Detection: Prediction/Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/8a2abfaf8b460c895b00a8b8c990d91c0091e881/projects/credit_fraud_detection.ipynb.ipynb): 
+
+Model that predicts transactional credit fraud by utilizing machine learning techniques.
+
+[![Credit Fraud Detection Image](https://github.com/JermaineV/JermaineV.github.io/blob/8a2abfaf8b460c895b00a8b8c990d91c0091e881/images/money-bag-thief-eps-vector_csp35493988.jpg?raw=true)](https://github.com/JermaineV/JermaineV.github.io/blob/8a2abfaf8b460c895b00a8b8c990d91c0091e881/projects/credit_fraud_detection.ipynb.ipynb)
+
 
 **Tools used:** 
 - Pandas
@@ -129,12 +137,14 @@ Using machine learning models to predict trends in renewable energy usage based 
 - Sklearn
 - Seaborn
 - Matplotlib
-
-![Credit Fraud Detection Image](https://github.com/JermaineV/JermaineV.github.io/blob/8a2abfaf8b460c895b00a8b8c990d91c0091e881/images/money-bag-thief-eps-vector_csp35493988.jpg?raw=true)
-
+  
 ---
 
-[Stock Market Analysis for Tech Stocks](https://github.com/JermaineV/JermaineV.github.io/blob/3cd011d8c890535696b4f633a4922cc58227dcb5/projects/Stock%20Market%20Analysis/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb): Analysis of technology stocks, including change in price over time, daily returns, and stock behavior prediction.
+[Stock Market Analysis for Tech Stocks](https://github.com/JermaineV/JermaineV.github.io/blob/3cd011d8c890535696b4f633a4922cc58227dcb5/projects/Stock%20Market%20Analysis/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb): 
+
+Analysis of technology stocks, including change in price over time, daily returns, and stock behavior prediction.
+
+[![Stock Market Analysis Image](https://github.com/JermaineV/JermaineV.github.io/blob/3cd011d8c890535696b4f633a4922cc58227dcb5/images/tiny-people-stock-traders-laptop-with-graph-chart-buy-sell-shares-stock-market-index-stockbroking-company-stock-exchange-data-concept_335657-1160.jpg?raw=true)](https://github.com/JermaineV/JermaineV.github.io/blob/3cd011d8c890535696b4f633a4922cc58227dcb5/projects/Stock%20Market%20Analysis/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb)
 
 **Tools used:** 
 - Pandas
@@ -142,11 +152,13 @@ Using machine learning models to predict trends in renewable energy usage based 
 - Seaborn
 - Matplotlib
 
-![Stock Market Analysis Image](https://github.com/JermaineV/JermaineV.github.io/blob/3cd011d8c890535696b4f633a4922cc58227dcb5/images/tiny-people-stock-traders-laptop-with-graph-chart-buy-sell-shares-stock-market-index-stockbroking-company-stock-exchange-data-concept_335657-1160.jpg?raw=true)
-
 ---
 
-[Titanic Dataset - Exploratory Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/6a4073a5f40449dcfef267ba95b3a2a8cb1891a6/projects/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb): Exploratory analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualizations.
+[Titanic Dataset - Exploratory Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/6a4073a5f40449dcfef267ba95b3a2a8cb1891a6/projects/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb): 
+
+Exploratory analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualizations.
+
+[![Titanic Dataset Image](https://github.com/JermaineV/JermaineV.github.io/blob/6a4073a5f40449dcfef267ba95b3a2a8cb1891a6/images/titanic-css-float-none-cartoon-browserling-webcomic.png?raw=true)](https://github.com/JermaineV/JermaineV.github.io/blob/6a4073a5f40449dcfef267ba95b3a2a8cb1891a6/projects/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb)
 
 **Tools used:** 
 - Pandas
@@ -154,11 +166,13 @@ Using machine learning models to predict trends in renewable energy usage based 
 - Seaborn
 - Matplotlib
 
-![Titanic Dataset Image](https://github.com/JermaineV/JermaineV.github.io/blob/6a4073a5f40449dcfef267ba95b3a2a8cb1891a6/images/titanic-css-float-none-cartoon-browserling-webcomic.png?raw=true)
-
 ---
 
-[Unsupervised Learning: Creating Customer Segments](https://github.com/JermaineV/JermaineV.github.io/blob/3cd011d8c890535696b4f633a4922cc58227dcb5/projects/Unsupervised%20Learning:%20Creating%20Customer%20Segments/customer_segments.ipynb): Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns, and knowledge.
+[Unsupervised Learning: Creating Customer Segments](https://github.com/JermaineV/JermaineV.github.io/blob/3cd011d8c890535696b4f633a4922cc58227dcb5/projects/Unsupervised%20Learning:%20Creating%20Customer%20Segments/customer_segments.ipynb): 
+
+Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns, and knowledge.
+
+[![Customer Segments Image](https://github.com/JermaineV/JermaineV.github.io/blob/3cd011d8c890535696b4f633a4922cc58227dcb5/images/customer%20segmentation.jpg?raw=true)](https://github.com/JermaineV/JermaineV.github.io/blob/3cd011d8c890535696b4f633a4922cc58227dcb5/projects/Unsupervised%20Learning:%20Creating%20Customer%20Segments/customer_segments.ipynb)
 
 **Tools used:** 
 - Scikit-learn
@@ -167,16 +181,18 @@ Using machine learning models to predict trends in renewable energy usage based 
 - Matplotlib
 - Pygame
 
-![Customer Segments Image](https://github.com/JermaineV/JermaineV.github.io/blob/3cd011d8c890535696b4f633a4922cc58227dcb5/images/customer%20segmentation.jpg?raw=true)
-
 ---
 
-[Simple COVID-19 Self Screening Program using Python](https://github.com/JermaineV/Simple-Covid-19-self-Screening-program/blob/18001a04702c88b76a80368f38af41207bd114bd/Simple_Covid_19_Screening_program.py): The program will tell if someone has COVID-19 or not, based on a number of preset questions.
+[Simple COVID-19 Self Screening Program using Python](https://github.com/JermaineV/Simple-Covid-19-self-Screening-program/blob/18001a04702c88b76a80368f38af41207bd114bd/Simple_Covid_19_Screening_program.py): 
+
+The program will tell if someone has COVID-19 or not, based on a number of preset questions.
 
 *NOTE*: This project is purely to demonstrate that not all problems require complex solutions. Feel free to test it out.
+[![COVID-19 Self Screening Image](https://github.com/JermaineV/JermaineV.github.io/blob/34b5393e78813ea301ac1cb9cf815a47f0a9fc7c/images/symptoms-covid-19-coronavirus-cartoon-style-infographic_1308-52033.jpg?raw=true)](https://github.com/JermaineV/Simple-Covid-19-self-Screening-program/blob/18001a04702c88b76a80368f38af41207bd114bd/Simple_Covid_19_Screening_program.py)
 
-![COVID-19 Self Screening Image](https://github.com/JermaineV/JermaineV.github.io/blob/34b5393e78813ea301ac1cb9cf815a47f0a9fc7c/images/symptoms-covid-19-coronavirus-cartoon-style-infographic_1308-52033.jpg?raw=true)
-
+**Tools used:** 
+- Python
+- github codespace 
 ---
 
 ### More Projects and challenges will be added in the future.
