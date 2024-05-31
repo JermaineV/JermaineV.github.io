@@ -67,7 +67,7 @@ Furthermore, I am a Certified Microsoft T-SQL programmer. You can verify both ce
 - **Matplotlib**
 - **Seaborn**
 
-<img src="https://github.com/JermaineV/JermaineV.github.io/blob/dc60229ef204b7fe301e3bd699ab7eb810c39657/images/giphy.gif?raw=true"/>
+<img src="https://github.com/JermaineV/JermaineV.github.io/blob/6f8157c4bf93060da1c072700be8f41fa1cee3b4/images/energy1.jpeg?raw=true"/>
 
 ---
 # Projects
