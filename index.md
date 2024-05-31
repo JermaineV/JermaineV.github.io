@@ -38,7 +38,7 @@ Furthermore, I am a Certified Microsoft T-SQL programmer. You can verify both ce
 - **Text Analysis**: Perform sentiment analysis, keyword extraction, and named entity recognition
 - **LLM Integration**: Use pre-trained LLMs to generate responses based on user input
 
-[Video showcasing the initial features](https://www.linkedin.com/posts/jermaine-varnicker-315a8794_ai-huggingface-nlp-activity-7202029374018121729-yyri?utm_source=share&utm_medium=member_desktop)
+[Video showcasing the initial features](https://1drv.ms/v/s!AuRvf69NQWuRqGksWC_S1K_aXV7N?e=H2SglP)
 
 ## Future Development:
 - Enhance response generation using the LLM with context awareness and conversation history
