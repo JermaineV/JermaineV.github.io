@@ -26,22 +26,23 @@ Furthermore, I am a Certified Microsoft T-SQL programmer. You can verify my cert
 #### Certifications:
 <p align="center">
     <div style="display: inline-block;">
-      <div data-iframe-width="160" data-iframe-height="160" data-share-badge-id="b509cdcd-1d97-4ab1-8220-4e6a40f17179" data-share-badge-host="https://www.credly.com"></div>
+      <div data-iframe-width="160" data-iframe-height="180" data-share-badge-id="b509cdcd-1d97-4ab1-8220-4e6a40f17179" data-share-badge-host="https://www.credly.com"></div>
       <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
     </div>
     <a href="https://api.badgr.io/public/assertions/AoRMW571Q96NNfnl9nHnqA?identity__email=jvarnicker%40gmail.com">
-      <img src="https://api.badgr.io/public/assertions/AoRMW571Q96NNfnl9nHnqA/image" alt="Data Management Fundamentals Badge" width="160" height="160">
+      <img src="https://api.badgr.io/public/assertions/AoRMW571Q96NNfnl9nHnqA/image" alt="Data Management Fundamentals Badge" width="160" height="180">
     </a>
     <a href="https://api.badgr.io/public/assertions/A7p_wa4mRkyOGKNYP78Y8w?identity__email=jvarnicker%40gmail.com">
-      <img src="https://api.badgr.io/public/assertions/A7p_wa4mRkyOGKNYP78Y8w/image" alt="DAMA CDMP Certification Badge" width="160" height="160">
+      <img src="https://api.badgr.io/public/assertions/A7p_wa4mRkyOGKNYP78Y8w/image" alt="DAMA CDMP Certification Badge" width="160" height="180">
     </a>
   </p>
+
   
 ---
 
 ### Projects in progress 2024:
 
-#### AI Communication Coach (in progress)
+#### [AI Communication Coach (in progress)](https://github.com/JermaineV/AI_Coach)
 
 This project aims to develop a platform that utilizes Artificial Intelligence (AI) to assist users in improving their communication skills for public speaking and interviews.
 
@@ -65,7 +66,7 @@ This project aims to develop a platform that utilizes Artificial Intelligence (A
 - Transformers: Hugging Face Transformers for text generation
 - (Optional) OpenCV: Computer Vision for future features
 
-![AI Communication Coach Image](https://github.com/JermaineV/JermaineV.github.io/blob/9485850cfc3d0007e00998eb6b26f9225f5d1721/images/botpic.jpeg?raw=true)
+[![AI Communication Coach Image](https://github.com/JermaineV/JermaineV.github.io/blob/9485850cfc3d0007e00998eb6b26f9225f5d1721/images/botpic.jpeg?raw=true)](https://github.com/JermaineV/AI_Coach)
 
 ---
 
