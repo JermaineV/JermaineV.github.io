@@ -31,8 +31,8 @@ Furthermore, I am a Certified Microsoft T-SQL programmer. You can verify both ce
 
 ---
 ### Projects in progress 2024:
-# AI Communication Coach (in progress)
-
+[AI Communication Coach(in progress)](https://github.com/JermaineV/AI_Coach):This project aims to develop a platform that utilizes Artificial Intelligence (AI) to assist users in improving their communication skills for public speaking and interviews.
+This project aims to develop a platform that utilizes Artificial Intelligence (AI) to assist users in improving their communication skills for public speaking and interviews.
 ## Current Functionality:
 - **Speech Recognition**: Capture and analyze user speech
 - **Text Analysis**: Perform sentiment analysis, keyword extraction, and named entity recognition
