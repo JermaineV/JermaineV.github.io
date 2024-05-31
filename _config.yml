@@ -3,16 +3,19 @@ logo: "images/IMG_20210715_231741.jpg?raw=true"
 
 description: |
   Data scientist, AI/ML Engineer, Developer, and a lover of all things tech.
-  <div>
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b509cdcd-1d97-4ab1-8220-4e6a40f17179" data-share-badge-host="https://www.credly.com"></div>
-    <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  
+  <p align='center'>
+    <a href="https://www.credly.com/badges/b509cdcd-1d97-4ab1-8220-4e6a40f17179">
+      <img src="https://github.com/JermaineV/JermaineV.github.io/blob/a1e0ac3d33660e240a9731ce7ae821b1d696927a/images/exam-761-querying-data-with-transact-sql.png" width="120px" height="120px" alt="Microsoft T-SQL Programmer Certification Badge">
+    </a>
     <a href="https://api.badgr.io/public/assertions/AoRMW571Q96NNfnl9nHnqA?identity__email=jvarnicker%40gmail.com">
       <img src="https://api.badgr.io/public/assertions/AoRMW571Q96NNfnl9nHnqA/image" width="120px" height="120px" alt="Data Management Fundamentals Badge">
     </a>
     <a href="https://api.badgr.io/public/assertions/A7p_wa4mRkyOGKNYP78Y8w?identity__email=jvarnicker%40gmail.com">
       <img src="https://api.badgr.io/public/assertions/A7p_wa4mRkyOGKNYP78Y8w/image" width="120px" height="120px" alt="DAMA CDMP Certification Badge">
     </a>
-  </div>
+  </p>
+  
   <p align='center'>
     <a href="pdf/Jermaine resume24.pdf">Resume</a> |
     <a href="pdf/transcripts - Jermaine Varnicker.pdf">Academic Transcript</a> |
