@@ -15,7 +15,7 @@ I'm a data science enthusiast with a passion for extracting insights and solving
 
 My commitment to data quality and best practices is reflected in my certification as a Data Management Professional (DAMA).  Additionally, I hold a certification in Microsoft T-SQL programming, demonstrating expertise in a valuable database language.
 
-Data-Driven Accomplishments
+***Data-Driven Accomplishments***
 
 As a data scientist, I thrive on tackling real-world challenges through innovative solutions. Here are some highlights of my professional journey:
 
@@ -28,7 +28,7 @@ Continuous Learning & Innovation
 
 I'm a firm believer in staying ahead of the curve. I actively research and experiment with the latest advancements in AI and Machine Learning. To keep my skills sharp, I build and iterate on mini models, furthering my understanding of these powerful technologies.
 
-Beyond Data
+***Beyond Data***
 
 Beyond data, I enjoy a good challenge, both online and over the chessboard. When I'm not immersed in the world of data, you might find me exploring various activities and seeking new experiences.
 
