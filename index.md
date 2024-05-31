@@ -31,27 +31,29 @@ Furthermore, I am a Certified Microsoft T-SQL programmer. You can verify both ce
 
 ---
 ### Project in progress:
-[AI Communication Coach 2024(in progress)](https://github.com/JermaineV/AI_Coach):
+# AI Communication Coach 2024 (in progress)
 
-*Current Functionality*:
-**Speech Recognition**: Capture and analyze user speech,
-**Text Analysis**: Perform sentiment analysis, keyword extraction, and named entity recognition,
-**LLM Integration**: Use pre-trained LLMs to generate responses based on user input.
+## Current Functionality:
+- **Speech Recognition**: Capture and analyze user speech
+- **Text Analysis**: Perform sentiment analysis, keyword extraction, and named entity recognition
+- **LLM Integration**: Use pre-trained LLMs to generate responses based on user input
+
 [Video showcasing the initial features](https://www.linkedin.com/posts/jermaine-varnicker-315a8794_ai-huggingface-nlp-activity-7202029374018121729-yyri?utm_source=share&utm_medium=member_desktop)
 
-*Future Development*:
-Enhance response generation using the LLM with context awareness and conversation history,
-Integrate feedback mechanisms to improve the coach's responses over time,
-Explore additional features like voice synthesis for coach responses or sentiment visualization.
+## Future Development:
+- Enhance response generation using the LLM with context awareness and conversation history
+- Integrate feedback mechanisms to improve the coach's responses over time
+- Explore additional features like voice synthesis for coach responses or sentiment visualization
 
-*Tools used*: 
-**Python**: Programming Language,
-**Jupyter Notebook**: Development environment,
-**SpeechRecognition**: Speech Recognition,
-**NLP Libraries**: NLTK, spaCy, TextBlob,
-**Transformers**: Hugging Face Transformers for text generation,
-**(Optional) OpenCV**: Computer Vision for future features
-<img src="https://github.com/JermaineV/JermaineV.github.io/blob/9485850cfc3d0007e00998eb6b26f9225f5d1721/images/botpic.jpeg?raw=true"/>
+## Tools used:
+- **Python**: Programming Language
+- **Jupyter Notebook**: Development environment
+- **SpeechRecognition**: Speech Recognition
+- **NLP Libraries**: NLTK, spaCy, TextBlob
+- **Transformers**: Hugging Face Transformers for text generation
+- **(Optional) OpenCV**: Computer Vision for future features
+
+![AI Communication Coach Image](https://github.com/JermaineV/JermaineV.github.io/blob/9485850cfc3d0007e00998eb6b26f9225f5d1721/images/botpic.jpeg?raw=true)
 
 ---
 #### Final college Data Science project:
