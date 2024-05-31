@@ -22,6 +22,7 @@ In addition to my data science proficiency, I hold certification as a Data Manag
 Furthermore, I am a Certified Microsoft T-SQL programmer. You can verify my certifications by clicking on the respective badges below.
 
 ---
+
 #### Certifications:
 <p align="center">
     <div style="display: inline-block;">
@@ -35,6 +36,7 @@ Furthermore, I am a Certified Microsoft T-SQL programmer. You can verify my cert
       <img src="https://api.badgr.io/public/assertions/A7p_wa4mRkyOGKNYP78Y8w/image" alt="DAMA CDMP Certification Badge" width="160" height="160">
     </a>
   </p>
+  
 ---
 
 ### Projects in progress 2024:
