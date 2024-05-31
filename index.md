@@ -193,7 +193,8 @@ The program will tell if someone has COVID-19 or not, based on a number of prese
 
 **Tools used:** 
 - Python
-- github codespace 
+- github codespace
+  
 ---
 
 ### More Projects and challenges will be added in the future.
